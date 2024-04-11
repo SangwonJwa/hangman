@@ -123,6 +123,7 @@ def checkWrongAnswer(missedLetters, secretWord):
             
 def main():
     # Main application entry point.
+    # Name changed to Sangwon Jwa
     print('H A N G M A N by Sangwon Jwa')
     missedLetters = ''
     correctLetters = ''
